@@ -1,30 +1,9 @@
-<h1 align="center">Hey there! 👋 I'm Abhishek Yadav</h1>
-<h3 align="center">⚙️ Backend Developer | ☁️ Python & Java Enthusiast | 🛠️ API & Database Ninja</h3>
-
----
-
 ### 🔍 About Me
+🤝 I’m looking for help with scaling the backend of my collab app
 
-- 🔭 Currently working on: **Backend systems using Django, Flask & FastAPI**
-- 🌱 Learning: **AI/ML**, Docker, and scalable microservices
-- 🧠 I enjoy building: **clean, secure & scalable APIs**
-- 💬 Ask me about: **Python, Java, REST APIs, SQL, System Design**
-- 📫 Reach me: [Gmail](mailto:abhishek735yadav@gmail.com) | [LinkedIn](https://www.linkedin.com/in/abhishekyad01)
-- ⚡ Fun Fact: I can debug spaghetti code while sipping chai 😄
 
----
 
-### 🧠 Experience
-
-**💻 Python Developer Intern** — *YBI Foundation*  
-📅 *Aug 2024 – Sep 2024*  
-🔹 Built Python-based apps and APIs  
-🔹 Ensured 99% uptime for production tools  
-🔹 Collaborated across teams & solved 10+ real-world issues
-
----
-
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -45,15 +24,6 @@
   <img src="https://img.shields.io/badge/Matplotlib-0066A1?style=for-the-badge&logo=plotly&logoColor=white" />
 </p>
 
----
-
-### 🖥️ Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhixyz8172&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&custom_title=Most%20Used%20Languages" />
-</p>
-
----
 
 ### 📊 GitHub Stats
 
@@ -61,18 +31,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Abhixyz8172&show_icons=true&theme=tokyonight&hide_border=true" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Abhixyz8172&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🚀 Connect with Me
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhishekyad01"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:abhishek735yadav@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhixyz8172&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&custom_title=Most%20Used%20Languages" />
 </p>
 
----
 
-⭐️ **Star my repos and follow me for backend 🔥 magic!**
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Abhixyz8172&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
 
