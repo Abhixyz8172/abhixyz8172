@@ -1,5 +1,5 @@
 ### 🔍 About Me
-🤝 I’m looking for help with scaling the backend of my collab app
+🤝 I’m looking for help with scaling the backend of my collab app.
 
 
 
