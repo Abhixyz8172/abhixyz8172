@@ -1,6 +1,6 @@
 ### 🔍 About Me
-🤝 I’m looking for help with scaling the backend of my collab app
-🌱 I’m currently learning kubernete
+🤝 I’m looking for help with scaling the backend of my collab app.
+🌱 I’m currently learning kubernete.
 
 
 ### 🛠️ Tech Stack:
