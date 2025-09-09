@@ -1,11 +1,9 @@
-### 🔍 About Me
-🤝 I’m looking for help with **scaling the backend of my collab app**   
-👯 I’m looking to collaborate on **OpenSource Projects**                                                                                                     
-🌱 I’m currently learning  **kubernetes**
-
+### 🔍 About Me  
+🤝 I’m looking for help with **scaling the backend of my collab app**  
+👯 I’m looking to collaborate on **OpenSource Projects**  
+🌱 I’m currently learning **kubernetes**  
 
 ### 🛠️ Tech Stack:
-
 <p align="center">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
@@ -25,22 +23,17 @@
   <img src="https://img.shields.io/badge/Matplotlib-0066A1?style=for-the-badge&logo=plotly&logoColor=white" />
 </p>
 
-
 ### 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abhixyz8172&show_icons=true&theme=tokyonight&hide_border=true" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Abhixyz8172&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Abhixyz8172&theme=tokyonight&hide_border=true" />
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhixyz8172&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&custom_title=Most%20Used%20Languages" />
 </p>
-
-
 
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Abhixyz8172&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
-
-
