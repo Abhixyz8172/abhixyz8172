@@ -3,9 +3,8 @@
 👯 I’m looking to collaborate on **OpenSource Projects**  
 🌱 I’m currently learning **kubernetes**  
 
+### 🛠️ Tech Stack:
 
-### 🛠️ Tech Stack:
-### 🛠️ Tech Stack:
 <p align="center">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
@@ -32,6 +31,7 @@
 
 
 ### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abhixyz8172&show_icons=true&theme=tokyonight&hide_border=true" />
   <br />
