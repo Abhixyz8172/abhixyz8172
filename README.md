@@ -3,7 +3,6 @@
 👯 I’m looking to collaborate on **OpenSource Projects**  
 🌱 I’m currently learning **kubernetes**  
 
-
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -27,7 +26,6 @@
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
-
 
 ## 📊 GitHub Stats
 <p align="center">
