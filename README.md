@@ -2,7 +2,10 @@
 🤝 I’m looking for help with **scaling the backend of my collab app**  
 👯 I’m looking to collaborate on **OpenSource Projects**  
 🌱 I’m currently learning **kubernetes**  
- 
+
+
+
+
 ## 🛠️ Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
