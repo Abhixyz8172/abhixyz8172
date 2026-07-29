@@ -1,44 +1,161 @@
-## 🔍 About Me  
-🤝 I’m looking for help with **scaling the backend of my collab app**  
-👯 I’m looking to collaborate on **OpenSource Projects**  
-🌱 I’m currently learning **kubernetes**  
+<h1 align="center">Hi 👋, I'm Abhishek Yadav</h1>
+<h3 align="center">Backend Developer | Python Developer | DevOps Enthusiast</h3>
 
-
-## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-1E90FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-0066A1?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Backend+Developer;Python+Developer;Django+%7C+FastAPI;DevOps+Enthusiast;Open+to+Internships+%26+Full-Time+Roles" alt="Typing SVG" />
 </p>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhixyz8172&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=Abhixyz8172&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhixyz8172&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&custom_title=Most%20Used%20Languages" />
+---
+
+## 🚀 About Me
+
+- 🎓 Recent Computer Science Engineering Graduate
+- 💻 Passionate about Backend Development & DevOps
+- 🌱 Currently learning Kubernetes & CI/CD
+- 🔭 Building scalable backend systems using Python
+- 💼 Open to Internship & Full-Time Opportunities
+- ⚡ Love building APIs, automation, and cloud-based applications
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java" />
 </p>
 
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,fastapi,flask" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+</p>
+
+### DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,githubactions,aws,linux" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 💳 PayFlow
+Secure Digital Wallet System
+
+**Tech Stack**
+
+- Django
+- FastAPI
+- PostgreSQL
+- Docker
+- JWT
+- REST APIs
+
+**Features**
+
+- Secure Transactions
+- ACID Compliance
+- Fraud Detection
+- Authentication
+- Dockerized Deployment
+
+🔗 https://github.com/Abhixyz8172/payflow
+
+---
+
+## 📊 LogSentinel
+
+Real-Time Server Monitoring System
+
+**Tech Stack**
+
+- Python
+- FastAPI
+- Redis
+- Docker
+- WebSockets
+
+**Features**
+
+- Live Log Streaming
+- Alert System
+- Redis Pub/Sub
+- Email & Telegram Notifications
+
+🔗 https://github.com/Abhixyz8172/logsentinel
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhixyz8172&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhixyz8172&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Abhixyz8172&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
 
 ## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhixyz8172&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Abhixyz8172&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/abhishekyad01/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:abhishek735yadav@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/Abhixyz8172">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+![](https://komarev.com/ghpvc/?username=Abhixyz8172&color=blueviolet&style=flat)
+
+</p>
+
+<p align="center">
+
+
 </p>
