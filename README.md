@@ -156,6 +156,10 @@ Real-Time Server Monitoring System
 </p>
 
 <p align="center">
+## 📈 Contribution Graph
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhixyz8172&theme=tokyo-night&hide_border=true" />
+</p>
 
 </p>
