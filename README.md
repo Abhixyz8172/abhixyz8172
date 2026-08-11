@@ -1,15 +1,3 @@
-<h1 align="center">Hi 👋, I'm Abhishek Yadav</h1>
-<h3 align="center">Backend Developer | Python Developer | DevOps Enthusiast</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Backend+Developer;Python+Developer;Django+%7C+FastAPI;DevOps+Enthusiast;Open+to+Internships+%26+Full-Time+Roles" alt="Typing SVG" />
-</p>
-
-
-
-
-
----
 
 
 ## 🚀 About Me
