@@ -43,7 +43,7 @@
 
 ---
 
-# 🚀 Featured Projects
+# Projects
 
 ## 💳 PayFlow
 Secure Digital Wallet System
