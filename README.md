@@ -1,5 +1,3 @@
-
-
 ## 🚀 About Me
 
 - 🎓 Recent Computer Science Engineering Graduate
