@@ -1,6 +1,0 @@
-.env
-logs/
-__pycache__/
-*.pyc
-.DS_Store
-postgres_data/
