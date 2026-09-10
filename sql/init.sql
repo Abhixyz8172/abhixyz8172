@@ -36,3 +36,14 @@ CREATE TABLE IF NOT EXISTS pipeline_run_log (
     started_at      TIMESTAMPTZ     NOT NULL DEFAULT NOW(),
     finished_at     TIMESTAMPTZ
 );
+
+-- Grant required permissions to the application user
+GRANT USAGE ON SCHEMA public TO stock_user;
+
+GRANT SELECT, INSERT, UPDATE, DELETE
+ON TABLE stock_prices, pipeline_run_log
+TO stock_user;
+
+GRANT USAGE, SELECT, UPDATE
+ON ALL SEQUENCES IN SCHEMA public
+TO stock_user;
