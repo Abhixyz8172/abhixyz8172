@@ -1,0 +1,101 @@
+version: "3.8"
+
+x-airflow-common: &airflow-common
+  build:
+    context: .
+    dockerfile: Dockerfile
+  environment: &airflow-common-env
+    AIRFLOW__CORE__EXECUTOR: LocalExecutor
+    AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://${AIRFLOW_DB_USER}:${AIRFLOW_DB_PASSWORD}@postgres/${AIRFLOW_DB_NAME}
+    AIRFLOW__CORE__FERNET_KEY: ${AIRFLOW_FERNET_KEY}
+    AIRFLOW__CORE__LOAD_EXAMPLES: "false"
+    AIRFLOW__CORE__DAGS_ARE_PAUSED_AT_CREATION: "false"
+    AIRFLOW__WEBSERVER__EXPOSE_CONFIG: "true"
+    AIRFLOW__SCHEDULER__CATCHUP_BY_DEFAULT: "false"
+    # --- App-specific settings, consumed by scripts/fetch_stock_data.py ---
+    STOCK_API_KEY: ${STOCK_API_KEY}
+    STOCK_API_PROVIDER: ${STOCK_API_PROVIDER:-alpha_vantage}
+    STOCK_SYMBOLS: ${STOCK_SYMBOLS:-AAPL,MSFT,GOOGL,AMZN,TSLA}
+    STOCK_DB_HOST: postgres
+    STOCK_DB_PORT: 5432
+    STOCK_DB_NAME: ${STOCK_DB_NAME}
+    STOCK_DB_USER: ${STOCK_DB_USER}
+    STOCK_DB_PASSWORD: ${STOCK_DB_PASSWORD}
+  volumes:
+    - ./dags:/opt/airflow/dags
+    - ./scripts:/opt/airflow/scripts
+    - ./logs:/opt/airflow/logs
+    - ./plugins:/opt/airflow/plugins
+  depends_on:
+    postgres:
+      condition: service_healthy
+
+services:
+  postgres:
+    image: postgres:15-alpine
+    container_name: stock_pipeline_postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: ${POSTGRES_SUPERUSER:-postgres}
+      POSTGRES_PASSWORD: ${POSTGRES_SUPERUSER_PASSWORD:-postgres}
+      AIRFLOW_DB_NAME: ${AIRFLOW_DB_NAME}
+      AIRFLOW_DB_USER: ${AIRFLOW_DB_USER}
+      AIRFLOW_DB_PASSWORD: ${AIRFLOW_DB_PASSWORD}
+      STOCK_DB_NAME: ${STOCK_DB_NAME}
+      STOCK_DB_USER: ${STOCK_DB_USER}
+      STOCK_DB_PASSWORD: ${STOCK_DB_PASSWORD}
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./sql/init-multiple-dbs.sh:/docker-entrypoint-initdb.d/01-init-multiple-dbs.sh
+      - ./sql/init.sql:/docker-entrypoint-initdb.d/02-init-stock-table.sql
+    ports:
+      - "5432:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_SUPERUSER:-postgres}"]
+      interval: 5s
+      retries: 10
+      timeout: 5s
+
+  airflow-init:
+    <<: *airflow-common
+    container_name: stock_pipeline_airflow_init
+    entrypoint: /bin/bash
+    command:
+      - -c
+      - |
+        airflow db upgrade &&
+        airflow users create \
+          --username ${AIRFLOW_ADMIN_USER:-admin} \
+          --password ${AIRFLOW_ADMIN_PASSWORD:-admin} \
+          --firstname Admin \
+          --lastname User \
+          --role Admin \
+          --email admin@example.com || true
+
+  airflow-webserver:
+    <<: *airflow-common
+    container_name: stock_pipeline_airflow_webserver
+    restart: unless-stopped
+    command: webserver
+    ports:
+      - "8080:8080"
+    depends_on:
+      airflow-init:
+        condition: service_completed_successfully
+    healthcheck:
+      test: ["CMD", "curl", "--fail", "http://localhost:8080/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+
+  airflow-scheduler:
+    <<: *airflow-common
+    container_name: stock_pipeline_airflow_scheduler
+    restart: unless-stopped
+    command: scheduler
+    depends_on:
+      airflow-init:
+        condition: service_completed_successfully
+
+volumes:
+  postgres_data:
