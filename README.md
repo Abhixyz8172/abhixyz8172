@@ -139,13 +139,13 @@ https://github.com/Abhixyz8172/logsentinel
 
 <!-- Replace YOUR-LINKEDIN with your actual LinkedIn username -->
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/abhishekyad01/">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <!-- Replace YOUR_EMAIL with your actual email -->
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:abhishek735yadav@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
