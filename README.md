@@ -1,5 +1,4 @@
 
-
 ## 🚀 About Me
 
 - 🎓 Recent Computer Science Engineering Graduate
@@ -13,34 +12,34 @@
 
 ## 🛠 Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java" />
 </p>
 
-### Backend
+### ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=django,fastapi,flask" />
+  <img src="https://skillicons.dev/icons?i=django,fastapi,flask" />
 </p>
 
-### Database
+### 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
 </p>
 
-### DevOps & Cloud
+### ☁️ DevOps & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,githubactions,aws,linux" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,githubactions,aws,linux" />
 </p>
 
-### Tools
+### 🔧 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
@@ -48,94 +47,106 @@
 # 🚀 Featured Projects
 
 ## 💳 PayFlow
-Secure Digital Wallet System
+
+### Secure Digital Wallet System
 
 **Tech Stack**
 
-- Django
-- FastAPI
-- PostgreSQL
-- Docker
-- JWT
-- REST APIs
+- 🐍 Django
+- ⚡ FastAPI
+- 🐘 PostgreSQL
+- 🐳 Docker
+- 🔐 JWT
+- 🌐 REST APIs
 
 **Features**
 
-- Secure Transactions
-- ACID Compliance
-- Fraud Detection
-- Authentication
-- Dockerized Deployment
+- 🔒 Secure Transactions
+- 💾 ACID Compliance
+- 🛡️ Fraud Detection
+- 🔐 Authentication & Authorization
+- 🐳 Dockerized Deployment
 
-🔗 https://github.com/Abhixyz8172/payflow
+🔗 **Project:**  
+https://github.com/Abhixyz8172/payflow
 
 ---
 
 ## 📊 LogSentinel
 
-Real-Time Server Monitoring System
+### Real-Time Server Monitoring System
 
 **Tech Stack**
 
-- Python
-- FastAPI
-- Redis
-- Docker
-- WebSockets
+- 🐍 Python
+- ⚡ FastAPI
+- 🔴 Redis
+- 🐳 Docker
+- 🔌 WebSockets
 
 **Features**
 
-- Live Log Streaming
-- Alert System
-- Redis Pub/Sub
-- Email & Telegram Notifications
+- 📡 Live Log Streaming
+- 🚨 Real-Time Alert System
+- 🔴 Redis Pub/Sub
+- 📧 Email Notifications
+- 📱 Telegram Notifications
 
-🔗 https://github.com/Abhixyz8172/logsentinel
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhixyz8172&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhixyz8172&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Abhixyz8172&theme=tokyonight&hide_border=true"/>
-
-</p>
+🔗 **Project:**  
+https://github.com/Abhixyz8172/logsentinel
 
 ---
 
-## 🏆 GitHub Trophies
+# 📈 GitHub Stats
 
 <p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=Abhixyz8172&show_icons=true&theme=tokyonight&hide_border=true"
+  />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Abhixyz8172&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhixyz8172&layout=donut&theme=tokyonight&hide_border=true&langs_count=5"
+  />
+</p>
 
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Abhixyz8172&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 ---
 
-## 📫 Connect with Me
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Abhixyz8172&theme=tokyonight&no-frame=true&row=1&column=6"
+  />
+</p>
+
+---
+
+# 📫 Connect With Me
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://github.com/Abhixyz8172">
+  <img src="https://skillicons.dev/icons?i=github" />
 </a>
+
+<!-- Replace YOUR-LINKEDIN with your actual LinkedIn username -->
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<!-- Replace YOUR_EMAIL with your actual email -->
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://github.com/Abhixyz8172">
-<img src="https://skillicons.dev/icons?i=github"/>
+  <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 </p>
@@ -143,10 +154,10 @@ Real-Time Server Monitoring System
 ---
 
 <p align="center">
-
-![](https://komarev.com/ghpvc/?username=Abhixyz8172&color=blueviolet&style=flat)
-
+  <img src="https://komarev.com/ghpvc/?username=Abhixyz8172&color=blueviolet&style=flat" />
 </p>
+
+---
 
 <p align="center">
 
