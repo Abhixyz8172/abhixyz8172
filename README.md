@@ -8,7 +8,7 @@
 - 💼 Open to Internship & Full-Time Opportunities
 - ⚡ Love building APIs, automation, and cloud-based applications
 
----
+--
 
 ## 🛠 Tech Stack
 
