@@ -9,8 +9,6 @@
 - ⚡ Love building APIs, automation, and cloud-based applications
 
 
-
-
 ## 🛠 Tech Stack
 
 ### 💻 Languages
