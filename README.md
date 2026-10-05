@@ -1,5 +1,4 @@
 ## 🚀 About Me
-
 - 🎓 Recent Computer Science Engineering Graduate
 - 💻 Passionate about Backend Development & DevOps
 - 🌱 Currently learning Kubernetes & CI/CD
