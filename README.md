@@ -1,18 +1,29 @@
+
 ## 🚀 About Me
-- 🎓 Recent Computer Science Engineering Graduate
-- 💻 Passionate about Backend Development & DevOps
-- 🌱 Currently learning Kubernetes & CI/CD
-- 🔭 Building scalable backend systems using Python
+
+- 🎓 Computer Science Engineering Graduate
+- 💻 Interested in Full Stack Development, Python Backend Development & DevOps
+- 📊 Exploring Data Analytics with Python, Pandas, NumPy, and SQL
+- 🤖 Exploring Generative AI, LLMs, and AI-powered applications
+- ☁️ Learning Kubernetes, CI/CD, and cloud deployment
+- 🔭 Building backend systems, REST APIs, and scalable applications
+- ⚡ Passionate about automation, databases, and cloud technologies
 - 💼 Open to Internship & Full-Time Opportunities
-- ⚡ Love building APIs, automation, and cloud-based applications
+
+
 
 ## 🛠 Tech Stack
 
 ### 💻 Languages
 
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js" />
+</p>
+
+### 🌐 Full Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs" />
 </p>
 
 ### ⚙️ Backend
@@ -32,6 +43,10 @@
 <p>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,githubactions,aws,linux" />
 </p>
+
+### 🤖 Generative AI & LLM
+
+- Python, LLMs, Prompt Engineering
 
 ### 🔧 Tools
 
