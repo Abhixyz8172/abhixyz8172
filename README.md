@@ -1,7 +1,6 @@
 
 ## 🚀 About Me
 
-
 - 🎓 Computer Science Engineering Graduate
 - 💻 Interested in Full Stack Development, Python Backend Development & DevOps
 - 📊 Exploring Data Analytics with Python, Pandas, NumPy, and SQL
