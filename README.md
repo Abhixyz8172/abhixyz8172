@@ -11,7 +11,6 @@
 - 💼 Open to Internship & Full-Time Opportunities
 
 
-
 ## 🛠 Tech Stack
 
 ### 💻 Languages
